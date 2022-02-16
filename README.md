@@ -16,7 +16,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/felipesartori">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipesartori&theme=github_dark&show_icons=true&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesartori&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
