@@ -18,11 +18,11 @@
   
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/felipesartori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesartori&theme=github_dark&show_icons=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesartori&layout=compact&langs_count=7&theme=github_dark"/>
-</p>
+</div>
 
 <p align='center'>
   💻 Meu Setup<br/><br/>
