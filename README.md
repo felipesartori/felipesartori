@@ -7,7 +7,7 @@
   A mobile and .net developer from Curitiba, Brazil.
 </p> -->
 
-<p align='center'>
+<div align='center'>
   
   <a href="https://www.linkedin.com/in/felipesartori/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/felipesartori">
@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </div>
 
-<p align='center'>
+<div align='center'>
   📫 Como chegar até mim: <a href='mailto:felipesartori.ti@gmail.com'>felipesartori.ti@gmail.com</a>
-</p>
+</div>
 
 
 ## Habilidades
