@@ -1,4 +1,9 @@
-## Olá, eu sou o Felipe Sartori!
+<!-- ## Olá, eu sou o Felipe Sartori! -->
+
+<h1 align='center'>
+  Olá, eu sou o Felipe Sartori!
+</h1>
+
 <div align="center">
   <!-- <a href="https://github.com/felipesartori"> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipesartori&theme=github_dark&show_icons=true&locale=pt-br"/>
