@@ -8,12 +8,18 @@
 </p> -->
 
 <div align='center'> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sartorifelipe_">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/sartorifelipe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/felipesartori/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <!-- Email -->
+  <a href = "mailto:felipesartori.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
+
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipesartori&theme=github_dark&show_icons=true&locale=pt-br"/>
@@ -26,11 +32,6 @@
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </div>
-
-<div align='center'>
-  📫 Como chegar até mim: <a href='mailto:felipesartori.ti@gmail.com'>felipesartori.ti@gmail.com</a>
-</div>
-
 
 ## Habilidades
 
