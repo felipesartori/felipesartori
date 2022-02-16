@@ -24,13 +24,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesartori&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<p align='center'>
+<div align='center'>
   💻 Meu Setup<br/><br/>
   <img src="https://img.shields.io/badge/windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%209th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-
-</p>
+</div>
 
 <p align='center'>
   📫 Como chegar até mim: <a href='mailto:felipesartori.ti@gmail.com'>felipesartori.ti@gmail.com</a>
